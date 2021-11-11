@@ -2,7 +2,8 @@
 
 OBJETIVOS
 
-Estudiar y comprender la notacion cientifica, notacion de ingenieria, asi como los prefijos metricos y conversiones mediante el desarrollo de ejercicios propuestos.
+•	Estudiar y comprender la notación científica, notación de ingeniería, así como los prefijos métricos y conversiones mediante el desarrollo de ejercicios propuestos.
+
 
 
 MARCO TEORICO
@@ -30,15 +31,11 @@ CAPITULO 2
 
 VIDEO
 
-EJERCICIO 1
-
-
-
-EJERCICIO 2
-
-
 
 
 CONCLUSION 
+
+•	En conclusión, la notación científica es la que utilizamos para escribir cantidades muy grandes o muy pequeñas como potencias de 10, mediante los prefijos se abrevia a las notaciones más comúnmente utilizadas. Cuando se realizan operaciones de conversiones de unidades es importante identificar la cantidad de cifras significativas.
+
 
 
