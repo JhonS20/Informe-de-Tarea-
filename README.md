@@ -49,7 +49,7 @@ CONCLUSION
 
 •	En conclusión, la notación científica es la que utilizamos para escribir cantidades muy grandes o muy pequeñas como potencias de 10, mediante los prefijos se abrevia a las notaciones más comúnmente utilizadas. Cuando se realizan operaciones de conversiones de unidades es importante identificar la cantidad de cifras significativas.
 
-• La teoría sobre como funciona a nivel atómico los electrones cuando se suministra voltaje nos da una idea bastante clara del fenomeno corriente electrica y conocer los fundamentos utilizados nos otor el poder hacer un analisis mediante un valor numerico.
+• La teoría sobre como funciona a nivel atómico los electrones cuando se suministra voltaje nos da una idea bastante clara del fenomeno corriente electrica y conocer los fundamentos utilizados  nos brinda a nosotros el poder hacer un analisis mediante un valor numerico.
 
 
 
