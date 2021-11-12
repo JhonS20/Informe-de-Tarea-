@@ -13,6 +13,7 @@ CAPITULO 1
 CAPITULO 2
 
 
+
 RESOLUCION DE EJERCICIOS O PROBLEMAS
 
 CAPITULO 1
@@ -23,7 +24,12 @@ CAPITULO 1
 
 CAPITULO 2
 
-
+![para tony_00002](https://user-images.githubusercontent.com/93899658/141469356-ee5e9890-3c06-4ad0-b95d-68f83d683e92.jpg)
+![para tony_00003](https://user-images.githubusercontent.com/93899658/141469362-7e192c7e-7cb1-4c3b-918b-565f506ccd9a.jpg)
+![para tony_00004](https://user-images.githubusercontent.com/93899658/141469363-9907adc6-5a4b-4eb6-910e-6e5715f322c0.jpg)
+![para tony_00005](https://user-images.githubusercontent.com/93899658/141469364-858b3151-a4a3-4e18-aae9-02a469472187.jpg)
+![para tony_00006](https://user-images.githubusercontent.com/93899658/141469365-12f7bcfc-dc06-4f8e-b6a1-c8f1194a1362.jpg)
+![para tony_00007](https://user-images.githubusercontent.com/93899658/141469366-f1ef6687-45df-4cf0-9055-eeb436acd83a.jpg)
 
 
 
@@ -31,6 +37,8 @@ CAPITULO 2
 
 VIDEO
 
+RESOLCIÓN DE EJERCICIOS
+https://www.youtube.com/watch?v=YXUwkoE7eUA&t=94s
 
 
 CONCLUSION 
