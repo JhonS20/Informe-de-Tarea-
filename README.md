@@ -12,6 +12,9 @@ CAPITULO 1
 ![mapa c1 1](https://user-images.githubusercontent.com/93209004/140867949-68fccd07-1b7e-4a6c-b841-90ebe149701f.png)
 CAPITULO 2
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/93899658/141469696-07f13207-520b-4231-8165-c3c7ec4de5bb.png)
+![Diagrama en blanco (2)](https://user-images.githubusercontent.com/93899658/141469701-8b77e8af-0b8e-4771-907f-cb1ea01965cd.png)
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93899658/141469702-97feeebb-3803-413e-82f7-f35be19ec4fb.png)
 
 
 RESOLUCION DE EJERCICIOS O PROBLEMAS
